@@ -10,3 +10,11 @@
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+
+.feed-property-card__chevron-conatainer {
+  display: none;
+}
+
+.feed-property-card:hover .feed-property-chevron {
+  display: flex;
+}
